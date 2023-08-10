@@ -29,6 +29,13 @@ Burada vurgulanmak istenen bir harfi virgülle ayırarak birden fazla yazabilece
 
 ## 
 
+
+## Türkçe Kelime Dosyası
+
+sozluk.txt dosyası githubtaki açık kaynak repolardan toplanmıştır.
+
+  
+
 ```bash
   alikan.com.tr
 ```
